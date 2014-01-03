@@ -1,38 +1,23 @@
 \version "2.17.97"
 
 voiceA = { 
-	\relative c'' {
-		bes2 f |
-		r4 ges f ees |
-		des c des e |
-		f e8 f g2~ |
-		g4 aes8 g f2~ |
-		f4 ees8 des e4 f |
-		ges2. f8 ees |
-		f4 g aes2~ |
-		aes4 g8 f g4 a |
-		b2.
-	}
+\include "..\parts\voiceA\voiceA.ly"
 }
 
 voiceB = { 
-c
-% b here
+\include "..\parts\voiceB\voiceB.ly"
 }
 
 voiceC = { 
-c
-% c here
+\include "..\parts\voiceC\voiceC.ly"
 }
 
 voiceD = { 
-c
-% d here
+\include "..\parts\voiceD\voiceD.ly"
 }
 
 voiceE = { 
-c
-% e here
+\include "..\parts\voiceE\voiceE.ly"
 }
 
 \score {
