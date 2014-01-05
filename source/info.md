@@ -10,4 +10,11 @@ The files are not commited to the Git repository, as they are currently all bina
 
 The files are given ID sequences formed of a three-letter abbreviation of their editor's surname, and the year of publication.
 
+KRL1866
+-------
+Edition title: Bach-Gesellschaft Ausgabe
+Editor: Kroll, Franz
+Published: 1866, Breitkopf und H&auml;rtel
+Link: (//javanese.imslp.info/files/imglnks/usimg/3/3c/IMSLP02227-BWV0867.pdf)
+
 <!-- end of file -->
