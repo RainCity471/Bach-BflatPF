@@ -1,5 +1,6 @@
 Source files
 ============
+<!-- This file is tracked in Git. When updating it, remember to commit when necessary -->
 <!-- written in Markdown -->
 
 **Note: For ease of writing, this document refers to the source files as a plural group. There may be only one, or more than one.**
