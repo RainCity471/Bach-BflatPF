@@ -1,3 +1,4 @@
 $ cat .gitignore
 *.log
 *.pdf
+np++Session.npSession
