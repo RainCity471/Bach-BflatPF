@@ -1,5 +1,7 @@
 \version "2.17.97"
 
+\include "..\style\style.ly" % Include global stylesheet
+
 voiceA = { 
 \include "..\parts\voiceA\voiceA.ly"
 }
