@@ -1,4 +1,9 @@
 $ cat .gitignore
+# Lilypond generated files
 *.log
 *.pdf
-np++Session.npSession
+*.svg
+*.png
+*.ps
+# Notepad++ session file
+np++Session
