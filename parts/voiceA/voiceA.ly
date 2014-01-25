@@ -52,21 +52,21 @@
 	\mBreak
 	aes g |
 	a r |
-	s1 |
-	s1 |
+	r1 |
+	r1 |
 	\mBreak
-	s1 |
-	s1 |
-	s1 |
-	s1 |
+	r1 |
+	r1 |
+	r1 |
+	r1 |
 	\mBreak
-	s1 |
-	s1 |
-	s1 |
-	s1 |
+	r1 |
+	r1 |
+	r1 |
+	r1 |
 	\mBreak
-	s1 |
-	s1 |
+	r1 |
+	r1 |
 	f2 bes, |
 	\mBreak
 	r4 ces' bes aes |
@@ -75,20 +75,20 @@
 	\mBreak
 	ees d |
 	e r |
-	s1 |
+	r1 |
 	\mBreak
-	s1 |
-	s1 |
-	s1 |
-	s1 |
+	r1 |
+	r1 |
+	r1 |
+	r1 |
 	\mBreak
-	s1 |
-	s1 |
-	s1 |
-	s1 |
-	s1 |
+	r1 |
+	r1 |
+	r1 |
+	r1 |
+	r1 |
 	\mBreak
-	s1 |
+	r1 |
 	r2 bes |
 	f r4 ges' |
 	f ees des c |
