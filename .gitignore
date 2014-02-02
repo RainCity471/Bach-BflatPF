@@ -5,5 +5,7 @@ $ cat .gitignore
 *.svg
 *.png
 *.ps
-# Notepad++ session file
-np++Session
+
+# Notepad++ sessions/workspaces
+np++session
+np++workspace
