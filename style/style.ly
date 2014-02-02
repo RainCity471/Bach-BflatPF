@@ -9,3 +9,4 @@
 }		
 
 mBreak = { \break}
+finalBarline = { \bar "|." }

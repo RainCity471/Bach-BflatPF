@@ -28,26 +28,31 @@ voiceE = {
 			\key bes \minor
 			\time 2/2
 			\voiceA
+			\finalBarline
 		}
 		\new Staff {
 			\key bes \minor
 			\time 2/2
 			\voiceB
+			\finalBarline
 		}
 		\new Staff {
 			\key bes \minor
 			\time 2/2
 			\voiceC
+			\finalBarline
 		}
 		\new Staff {
 			\key bes \minor
 			\time 2/2
 			\voiceD
+			\finalBarline
 		}
 		\new Staff {
 			\key bes \minor
 			\time 2/2
 			\voiceE
+			\finalBarline
 		}
 	>>
 }
