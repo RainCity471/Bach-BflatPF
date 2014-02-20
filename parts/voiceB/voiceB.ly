@@ -77,7 +77,7 @@
 	f ees des c |
 	des8 ees f2 ges4 |
 	f ees des2 |
-	g c~ |
+	g c,~ |
 	c1 |
 	bes\fermata |
 }
