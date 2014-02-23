@@ -94,7 +94,7 @@
 	f ees des c |
 	\mBreak
 	des ees f ees |
-	des ces bes2~ |
+	des c bes2~ |
 	bes4 c des2~ |
 	des4 des c bes |
 	\mBreak
