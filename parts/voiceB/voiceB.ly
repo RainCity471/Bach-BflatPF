@@ -29,6 +29,7 @@
 	f ees f ges |
 	aes2 f |
 	bes ees, |
+	\clef "treble^8"
 	r4 ges' f ees |
 	des2 c |
 	bes1~ | % 1
