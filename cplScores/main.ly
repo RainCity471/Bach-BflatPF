@@ -1,4 +1,4 @@
-\version "2.17.97"
+\version "2.19.2"
 
 \include "..\style\style.ly" % Include global stylesheet
 
