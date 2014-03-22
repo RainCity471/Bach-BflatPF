@@ -37,6 +37,7 @@
 	c2 des~ |
 	des c |
 	des aes |
+	\clef "treble^8"
 	r4 ces' bes aes |
 	ges f ges aes |
 	\mBreak
