@@ -23,15 +23,16 @@
 	ees1 |
 	des2 f~ |
 	f1 |
+	\clef soprano
 	bes4 aes ges f |
 	ees2 f |
 	ees1 |
 	des4 c des ees |
 	f2 d |
 	ees2. f4 |
-	\clef treble
 	ges4 ees a g8 f |
-	bes4 f' ees2 |
+	bes4 \clef "treble^8" % --¬
+	     f' ees2 |
 	d ees |
 	f1~ |
 	f4 ees8 d ees2~ |
